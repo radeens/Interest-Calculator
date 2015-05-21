@@ -12,9 +12,7 @@ import utilities.Utilities;
 
 /**
  * You will likely import more than a few Swing and other libraries above.
- * 
- * @author CS Department, UMD
- * 
+ * Deepak Luitel
  */
 @SuppressWarnings("serial")
 public class InterestTableGUI extends JPanel {
