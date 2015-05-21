@@ -3,8 +3,8 @@ import java.text.NumberFormat;
 /**
  * Essentially, the <code>Utilities</code> class is a collection of static methods that
  * perform various computations relevant to computing common and accrued interest.
- * @author UMD CS Department
- *
+ * @author Deepak Luitel
+ * @template by UMD CS DEPT
  */
 public class Utilities {
 	/**
